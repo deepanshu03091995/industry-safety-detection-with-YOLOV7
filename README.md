@@ -1,0 +1,1 @@
+# industry-safety-detection-with-YOLOV7
